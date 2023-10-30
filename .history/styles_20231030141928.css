@@ -69,7 +69,7 @@
         height: auto;
         margin: 0 auto;
     }
-    /* tribute information */
+    /* tribute infomation */
     
     #tribute-info ul {
         line-height: 1.5;
@@ -96,9 +96,4 @@
     
     a:visited {
         color: #74638f;
-    }
-    
-    .foot {
-        font-size: 20px;
-        font-weight: 700;
     }
