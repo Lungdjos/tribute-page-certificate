@@ -1,0 +1,14 @@
+body {
+    background: #fff;
+}
+
+main {
+    background: #eee;
+    align-items: center;
+    justify-content: center;
+}
+
+#img-div img {
+    background: #fff;
+    padding: 10px;
+}

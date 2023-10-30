@@ -1,0 +1,12 @@
+body {
+    background: #fff;
+}
+
+main {
+    background: #eee;
+    align-items: center;
+}
+
+#img-div img {
+    background: #fff;
+}
